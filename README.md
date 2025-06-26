@@ -1,6 +1,10 @@
 # cotcp
 "CotCP" - Theme Cotonti Control Panel
 
+<img src="https://raw.githubusercontent.com/webitproff/cotcp/refs/heads/main/cotcp-01.png" alt="Cotonti CMF">
+
+<img src="https://raw.githubusercontent.com/webitproff/cotcp/refs/heads/main/cotcp-02.png" alt="Cotonti CMF">
+
 # Cotonti Siena Admin Theme - CotCP
 
 A minimalist admin panel theme for CMF Cotonti Siena v.0.9.26, built with Bootstrap 5.3.6. Supports both "dark" and "light" modes for a clean and modern user experience.
