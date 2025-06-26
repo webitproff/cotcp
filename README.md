@@ -22,7 +22,8 @@ A minimalist admin panel theme for CMF Cotonti Siena v.0.9.26, built with Bootst
 ## Bug Reports and Support
 
 For bug reports, support, or discussions related to the CotCP admin theme, please use the [Forum Section](https://abuyfile.com/forums/cotonti/original/skins/cotcp)
----
+
+
 
 # Тема админ-панели Cotonti Siena - CotCP
 
