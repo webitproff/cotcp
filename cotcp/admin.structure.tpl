@@ -98,10 +98,14 @@
         </div>
     </form>
     <!-- IF {ADMIN_STRUCTURE_TOTALITEMS} -->
-    <p class="paging">
-        {ADMIN_STRUCTURE_PAGINATION_PREV}{ADMIN_STRUCTURE_PAGNAV}{ADMIN_STRUCTURE_PAGINATION_NEXT}
-        <span>{PHP.L.Total}: {ADMIN_STRUCTURE_TOTALITEMS}, {PHP.L.Onpage}: {ADMIN_STRUCTURE_COUNTER_ROW}</span>
-    </p>
+	<div class="col-12">
+	  <nav aria-label="Page Pagination" class="mt-3">
+		<div class="text-center mb-2">{PHP.L.Total}: {ADMIN_STRUCTURE_TOTALITEMS}, {PHP.L.Onpage}: {ADMIN_STRUCTURE_COUNTER_ROW}</div>
+		<ul class="pagination justify-content-center">
+		  {ADMIN_STRUCTURE_PAGINATION_PREV}{ADMIN_STRUCTURE_PAGNAV}{ADMIN_STRUCTURE_PAGINATION_NEXT}
+		</ul>
+	  </nav>
+	</div>
     <!-- ENDIF -->
 </div>
 <!-- ENDIF -->
