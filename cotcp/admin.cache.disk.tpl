@@ -27,10 +27,10 @@
                     <!-- BEGIN: ADMIN_DISKCACHE_ROW -->
                     <div class="list-group-item">
                         <div class="row align-items-center">
-                            <div class="col-12 col-md-3 text-center">{ADMIN_DISKCACHE_ITEM_NAME}</div>
-                            <div class="col-12 col-md-3 text-center">{ADMIN_DISKCACHE_FILES}</div>
-                            <div class="col-12 col-md-3 text-center">{ADMIN_DISKCACHE_SIZE}</div>
-                            <div class="col-12 col-md-3 text-center">
+                            <div class="col-12 col-md-3">{ADMIN_DISKCACHE_ITEM_NAME}</div>
+                            <div class="col-12 col-md-3">{ADMIN_DISKCACHE_FILES}</div>
+                            <div class="col-12 col-md-3">{ADMIN_DISKCACHE_SIZE}</div>
+                            <div class="col-12 col-md-3">
                                 <a title="{PHP.L.Delete}" href="{ADMIN_DISKCACHE_ITEM_DEL_URL}" class="ajax btn btn-danger">{PHP.L.Delete}</a>
                             </div>
                         </div>
@@ -39,10 +39,10 @@
 
                     <div class="list-group-item list-group-item-secondary">
                         <div class="row align-items-center fw-bold">
-                            <div class="col-12 col-md-3 text-center">{PHP.L.Total}:</div>
-                            <div class="col-12 col-md-3 text-center">{ADMIN_DISKCACHE_CACHEFILES}</div>
-                            <div class="col-12 col-md-3 text-center">{ADMIN_DISKCACHE_CACHESIZE}</div>
-                            <div class="col-12 col-md-3 text-center"></div>
+                            <div class="col-12 col-md-3">{PHP.L.Total}:</div>
+                            <div class="col-12 col-md-3">{ADMIN_DISKCACHE_CACHEFILES}</div>
+                            <div class="col-12 col-md-3">{ADMIN_DISKCACHE_CACHESIZE}</div>
+                            <div class="col-12 col-md-3"></div>
                         </div>
                     </div>
                 </div>
