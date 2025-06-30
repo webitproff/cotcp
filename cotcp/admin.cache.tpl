@@ -1,4 +1,6 @@
-<!-- BEGIN: MAIN --> {FILE "{PHP.cfg.themes_dir}/admin/{PHP.cfg.admintheme}/warnings.tpl"} <div class="py-4">
+<!-- BEGIN: MAIN --> 
+{FILE "{PHP.cfg.themes_dir}/admin/{PHP.cfg.admintheme}/warnings.tpl"} 
+<div class="py-4">
   <div class="min-height-50vh d-flex flex-column px-2 px-md-3 py-4">
     <div class="row">
       <div class="col-12">
