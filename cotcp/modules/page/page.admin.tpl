@@ -75,7 +75,7 @@
               <!-- ENDIF -->
               <div class="moreinfo collapse">
                 <hr class="my-2" />
-                <strong>{PHP.L.Category}:</strong> {ADMIN_PAGE_UPDATED}
+                <strong>{ADMIN_PAGE_UPDATED}</strong> 
                 <!-- IF {ADMIN_PAGE_TEXT} -->
                 <div class="mt-2">
                   <strong>{PHP.L.Text}:</strong>
