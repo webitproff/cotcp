@@ -8,7 +8,7 @@
                 <!-- IF {PHP.usr.isadmin} -->
                 <div class="row mb-3">
                     <div class="col-12">
-                        <a title="{PHP.L.adm_purgeall}" href="{ADMIN_LOG_URL_PRUNE}" class="ajax btn btn-primary-outline">{PHP.L.adm_purgeall}</a>
+                        <a title="{PHP.L.adm_purgeall}" href="{ADMIN_LOG_URL_PRUNE}" class="ajax btn btn-outline-danger">{PHP.L.adm_purgeall}</a>
                     </div>
                 </div>
                 <!-- ENDIF -->
@@ -67,4 +67,5 @@
 <div class="alert alert-info" role="alert">
   admin.log.tpl
 </div>
+
 <!-- END: MAIN -->
